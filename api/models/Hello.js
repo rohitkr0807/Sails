@@ -11,6 +11,11 @@ module.exports = {
     name : {
       type: 'string',
       required: 'yes'
+    },
+
+    nature : {
+      type : 'string',
+      required : 'yes'
     }
 
     //  ╔═╗╦═╗╦╔╦╗╦╔╦╗╦╦  ╦╔═╗╔═╗

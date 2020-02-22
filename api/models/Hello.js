@@ -12,10 +12,13 @@ module.exports = {
       type: 'string',
       required: 'yes'
     },
-
     nature : {
       type : 'string',
       required : 'yes'
+    },
+    school: {
+      type: 'nice',
+      required: 'yes'
     }
 
     //  ╔═╗╦═╗╦╔╦╗╦╔╦╗╦╦  ╦╔═╗╔═╗

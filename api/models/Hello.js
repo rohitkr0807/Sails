@@ -19,8 +19,16 @@ module.exports = {
     school: {
       type: 'nice',
       required: 'yes'
+    },
+    city : {
+      type : 'string',
+      required : 'yes'
+    },
+    
+    address : {
+      type : 'string',
+      required :'yes'
     }
-
     //  ╔═╗╦═╗╦╔╦╗╦╔╦╗╦╦  ╦╔═╗╔═╗
     //  ╠═╝╠╦╝║║║║║ ║ ║╚╗╔╝║╣ ╚═╗
     //  ╩  ╩╚═╩╩ ╩╩ ╩ ╩ ╚╝ ╚═╝╚═╝

@@ -24,7 +24,11 @@ module.exports = {
       type : 'string',
       required : 'yes'
     },
-
+    
+    address : {
+      type : 'string',
+      required :'yes'
+    }
     //  ╔═╗╦═╗╦╔╦╗╦╔╦╗╦╦  ╦╔═╗╔═╗
     //  ╠═╝╠╦╝║║║║║ ║ ║╚╗╔╝║╣ ╚═╗
     //  ╩  ╩╚═╩╩ ╩╩ ╩ ╩ ╚╝ ╚═╝╚═╝

@@ -28,6 +28,9 @@ module.exports = {
     address : {
       type : 'string',
       required :'yes'
+    },
+    match : {
+      type : 'string;'
     }
     //  ╔═╗╦═╗╦╔╦╗╦╔╦╗╦╦  ╦╔═╗╔═╗
     //  ╠═╝╠╦╝║║║║║ ║ ║╚╗╔╝║╣ ╚═╗

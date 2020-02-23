@@ -24,13 +24,19 @@ module.exports = {
       type : 'string',
       required : 'yes'
     },
-    
+
     address : {
       type : 'string',
       required :'yes'
     },
+
+    gender : {
+      type : 'string',
+      required : 'yes'
+    },
+
     match : {
-      type : 'string;'
+      type : 'string'
     }
     //  ╔═╗╦═╗╦╔╦╗╦╔╦╗╦╦  ╦╔═╗╔═╗
     //  ╠═╝╠╦╝║║║║║ ║ ║╚╗╔╝║╣ ╚═╗
